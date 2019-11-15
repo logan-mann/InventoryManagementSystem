@@ -1,0 +1,18 @@
+schutte_christopher@yahoo.com,Christopher Schutte,Mid-Weight Jacket's,Greenland Down No. 1,Mountain Grey,S
+logan-mann@gmail.com,Logan Mann,Parka's,Expedition Down Lite,Black,S
+gentian.vuthi@gmail.com,Gentian Vuthi,Eco-Shell Jacket's,Keb Eco-Shell,Acorn,M
+schutte_christopher@yahoo.com,Christopher Schutte,Mid-Weight Jacket's,Räven,Black,S
+logan-mann@gmail.com,Logan Mann,Parka's,Singi Down,Deep Forest,S
+gentian.vuthi@gmail.com,Gentian Vuthi,Eco-Shell Jacket's,High Coast Eco-Shell Padded,Navy,S
+schutte_christopher@yahoo.com,Christopher Schutte,Mid-Weight Jacket's,Greenland Down No. 1,Black,S
+logan-mann@gmail.com,Logan Mann,Parka's,Expedition Down Lite,Black,S
+gentian.vuthi@gmail.com,Gentian Vuthi,Eco-Shell Jacket's,Keb Eco-Shell,Black,S
+schutte_christopher@yahoo.com,Christopher Schutte,Heavy Pants,Sörmland Tapered Winter,Black,48
+logan-mann@gmail.com,Logan Mann,Heavy Pants,Sörmland Tapered Winter,Black,46
+gentian.vuthi@gmail.com,Gentian Vuthi,Heavy Pants,Keb,Black,46
+schutte_christopher@yahoo.com,Christopher Schutte,Light Pants,High Coast Hike,Mountain Grey,46
+logan-mann@gmail.com,Logan Mann,Light Pants,High Coast Hike,Mountain Grey,44
+gentian.vuthi@gmail.com,Gentian Vuthi,Light Pants,High Coast Hike,Sand,46
+schutte_christopher@yahoo.com,Christopher Schutte,Boots,Lhasa,Brown,10
+logan-mann@gmail.com,Logan Mann,Boots,Lhasa,Brown,10
+gentian.vuthi@gmail.com,Gentian Vuthi,Boots,Lhasa,Brown,10
